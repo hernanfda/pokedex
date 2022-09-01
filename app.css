@@ -1,0 +1,22 @@
+.pokemon {
+    display: inline-block;
+    text-align: center;
+}
+.pokemon img {
+    display: block;
+}
+body{
+    background-image: url('img/pokeintrowall.png');
+    background-size: cover;
+}
+h1{
+    color: whitesmoke;
+    text-align: center;
+    text-decoration: underline 2px whitesmoke;
+}
+button, input{
+    display: block;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+}
